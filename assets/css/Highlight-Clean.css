@@ -1,11 +1,11 @@
 .highlight-clean {
-  margin-top: 10rem;
+  margin-top: 6rem;
   height: 100%;
 }
 
 @media (min-width: 992px) {
   .highlight-clean {
-    margin-top: 10rem;
+    margin-top: 8rem;
     height: 100%;
   }
 }
